@@ -1,19 +1,16 @@
-### Hi there 👋
+### ¡Hola! 🍕
 
-<!--
-**MariViz/MariViz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->HORARIO
+
+- 📓 Estudiando en la Preparatoria Federal Lazaro Cardenas
+- 🖥️ Cursando cuarto semestre en TICS
+- 🎨 Mis habilidades son el dibujo y la pintura
+- 🐈 Los gatos son los mejores
+
+
+
+# HORARIO
 |  HORA  | LUNES | MARTES | MIERCOLES | JUEVES | VIERNES |
 |:------:|:-----:|:------:|:---------:|:------:|:-------:|
 |  7:00  |   Cv  |   MRC  |    MRC    |    F   |   MRC   |
